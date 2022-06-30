@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 97f06137129e71c41afc7f437794c8aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClearSound: {fileID: 8300000, guid: 25abda5a5799ba449b80267f51472c07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
